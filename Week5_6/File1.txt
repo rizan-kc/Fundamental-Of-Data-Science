@@ -1,0 +1,3 @@
+Hello, My name is Rizan K.C.
+Let's explore the file handling
+File handling is a concept in programming where we work with files.
